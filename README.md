@@ -1,1 +1,1 @@
-# Comunidad-Terrdata
+# Comunidad-Teradata
